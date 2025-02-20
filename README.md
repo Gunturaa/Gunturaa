@@ -54,22 +54,25 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<img src="https://raw.githubusercontent.com/Gunturaa/Gunturaa/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Gunturaa/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/tzYKRfd.gif"  />
 </div>
 
-###
+
