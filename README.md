@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunturaa&theme=dracula" alt="Gunturaa GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunturaa&bg_color=00000000&color=8b949e&line=58a6ff&point=58a6ff&area=false&hide_border=true&hide_title=true&height=240" alt="Gunturaa GitHub contribution graph" />
 </div>
 
 ###
@@ -74,4 +74,10 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/tzYKRfd.gif" alt="footer animation" />
+</div>
